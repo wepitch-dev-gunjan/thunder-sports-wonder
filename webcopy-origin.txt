@@ -1,0 +1,500 @@
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655f80ec405eaba6f55aed0d_hero-img-baronissi.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655f80ec405eaba6f55aed0d_hero-img-baronissi.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655f9985f247a77afffc9f0a_hero-img-club.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655f9985f247a77afffc9f0a_hero-img-club.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655f99a717bca5d1a703b9a9_hero-img-sports.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655f99a717bca5d1a703b9a9_hero-img-sports.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fa0d21682dad0ae14a26c_Favicon (1).png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fa0d21682dad0ae14a26c_Favicon (1).png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fa0d65eee9a59b5ffd049_Favicon.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fa0d65eee9a59b5ffd049_Favicon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655faa720ba3aaaf5519770f_img-about-1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655faa720ba3aaaf5519770f_img-about-1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655faa720ba3aaaf5519770f_img-about-1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655faa720ba3aaaf5519770f_img-about-1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655faa720ba3aaaf5519770f_img-about-1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655faa720ba3aaaf5519770f_img-about-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0320ba3aaaf551d72b3_img-about-3-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0320ba3aaaf551d72b3_img-about-3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0320ba3aaaf551d72b3_img-about-3-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0320ba3aaaf551d72b3_img-about-3-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0320ba3aaaf551d72b3_img-about-3.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0320ba3aaaf551d72b3_img-about-3.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0dcafddf9ce71681f3f_img-about-3-p-1080.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0dcafddf9ce71681f3f_img-about-3-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0dcafddf9ce71681f3f_img-about-3-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0dcafddf9ce71681f3f_img-about-3-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0dcafddf9ce71681f3f_img-about-3-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0dcafddf9ce71681f3f_img-about-3-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb0dcafddf9ce71681f3f_img-about-3.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb0dcafddf9ce71681f3f_img-about-3.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fb82ef27e9045f01ffbe4_Logo.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fb82ef27e9045f01ffbe4_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fce343530a043e9a772f0_img-about-7-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fce343530a043e9a772f0_img-about-7-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fce343530a043e9a772f0_img-about-7-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fce343530a043e9a772f0_img-about-7-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/655fce343530a043e9a772f0_img-about-7.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\655fce343530a043e9a772f0_img-about-7.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/6560a4bc0d6c1705adbf7bf5_Sponsor5.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\6560a4bc0d6c1705adbf7bf5_Sponsor5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/6560a4bc3bd327836c5e8df9_Sponsor1.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\6560a4bc3bd327836c5e8df9_Sponsor1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/6560a4bc66ef3f9fed0db66e_Sponsor4.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\6560a4bc66ef3f9fed0db66e_Sponsor4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/6560a4bc695cf2a0615e8ea7_Sponsor2.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\6560a4bc695cf2a0615e8ea7_Sponsor2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/6560a4bdb94ac6a163a40593_Sponsor3.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\6560a4bdb94ac6a163a40593_Sponsor3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/6568c589ac85a524504369e5_burger.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\6568c589ac85a524504369e5_burger.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65748585d9bc3d86c0162dac_img-about-2.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65748585d9bc3d86c0162dac_img-about-2.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/657486784469ff0c24e3f8d3_img-hero-basketball-p-1080.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\657486784469ff0c24e3f8d3_img-hero-basketball-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/657486784469ff0c24e3f8d3_img-hero-basketball-p-1600.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\657486784469ff0c24e3f8d3_img-hero-basketball-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/657486784469ff0c24e3f8d3_img-hero-basketball-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\657486784469ff0c24e3f8d3_img-hero-basketball-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/657486784469ff0c24e3f8d3_img-hero-basketball-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\657486784469ff0c24e3f8d3_img-hero-basketball-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/657486784469ff0c24e3f8d3_img-hero-basketball.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\657486784469ff0c24e3f8d3_img-hero-basketball.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65a1d40dc64d193880e513b0_photo-hero-compress.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65a1d40dc64d193880e513b0_photo-hero-compress.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65a8548d4597f96b9221145f_effepidi-logo.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65a8548d4597f96b9221145f_effepidi-logo.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65af8a88a7e074256876cf2c_img-about-team-p-1080.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65af8a88a7e074256876cf2c_img-about-team-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65af8a88a7e074256876cf2c_img-about-team-p-1600.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65af8a88a7e074256876cf2c_img-about-team-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65af8a88a7e074256876cf2c_img-about-team-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65af8a88a7e074256876cf2c_img-about-team-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65af8a88a7e074256876cf2c_img-about-team-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65af8a88a7e074256876cf2c_img-about-team-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/65af8a88a7e074256876cf2c_img-about-team.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\65af8a88a7e074256876cf2c_img-about-team.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/css/baronissisportsclub.webflow.acc505ced.min.css
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\css\baronissisportsclub.webflow.acc505ced.min.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/654d5ff601c12d86da1a424b/js/webflow.7a72780ae.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\js\webflow.7a72780ae.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b4aac4c3db5a4d0e6cdd4_Matteo De Domenico1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b4aac4c3db5a4d0e6cdd4_Matteo De Domenico1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b4aac4c3db5a4d0e6cdd4_Matteo De Domenico1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b4aac4c3db5a4d0e6cdd4_Matteo De Domenico1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b4aac4c3db5a4d0e6cdd4_Matteo De Domenico1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b4aac4c3db5a4d0e6cdd4_Matteo De Domenico1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b55a4cb1171dcc063a7d5_Pasquale D'auria1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b55a4cb1171dcc063a7d5_Pasquale D'auria1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b55a4cb1171dcc063a7d5_Pasquale D'auria1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b55a4cb1171dcc063a7d5_Pasquale D'auria1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b55a4cb1171dcc063a7d5_Pasquale D'auria1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b55a4cb1171dcc063a7d5_Pasquale D'auria1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b5e3f4e1a70d2e6dab9aa_Maurizio Lepore1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b5e3f4e1a70d2e6dab9aa_Maurizio Lepore1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b5e3f4e1a70d2e6dab9aa_Maurizio Lepore1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b5e3f4e1a70d2e6dab9aa_Maurizio Lepore1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b5e3f4e1a70d2e6dab9aa_Maurizio Lepore1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b5e3f4e1a70d2e6dab9aa_Maurizio Lepore1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b6405ccb09777ebdb40fe_Alfredo Grieco1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b6405ccb09777ebdb40fe_Alfredo Grieco1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b6405ccb09777ebdb40fe_Alfredo Grieco1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b6405ccb09777ebdb40fe_Alfredo Grieco1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b6405ccb09777ebdb40fe_Alfredo Grieco1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b6405ccb09777ebdb40fe_Alfredo Grieco1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b690a2b3f9ecffec2e1f8_Emilio De Marco1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b690a2b3f9ecffec2e1f8_Emilio De Marco1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b690a2b3f9ecffec2e1f8_Emilio De Marco1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b690a2b3f9ecffec2e1f8_Emilio De Marco1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b690a2b3f9ecffec2e1f8_Emilio De Marco1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b690a2b3f9ecffec2e1f8_Emilio De Marco1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b6d4633c4f9d9b1f7d70b_Daniele Galizia1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b6d4633c4f9d9b1f7d70b_Daniele Galizia1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b6d4633c4f9d9b1f7d70b_Daniele Galizia1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b6d4633c4f9d9b1f7d70b_Daniele Galizia1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b6d4633c4f9d9b1f7d70b_Daniele Galizia1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b6d4633c4f9d9b1f7d70b_Daniele Galizia1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b73923a3f6e1cc0f9417d_Mario Iannone1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b73923a3f6e1cc0f9417d_Mario Iannone1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b73923a3f6e1cc0f9417d_Mario Iannone1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b73923a3f6e1cc0f9417d_Mario Iannone1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b73923a3f6e1cc0f9417d_Mario Iannone1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b73923a3f6e1cc0f9417d_Mario Iannone1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b783f111dd4df1e17a890_Daniele Napoli1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b783f111dd4df1e17a890_Daniele Napoli1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b783f111dd4df1e17a890_Daniele Napoli1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b783f111dd4df1e17a890_Daniele Napoli1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b783f111dd4df1e17a890_Daniele Napoli1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b783f111dd4df1e17a890_Daniele Napoli1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b7cbc4d290037902287af_Enzo Pesce1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b7cbc4d290037902287af_Enzo Pesce1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b7cbc4d290037902287af_Enzo Pesce1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b7cbc4d290037902287af_Enzo Pesce1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b7cbc4d290037902287af_Enzo Pesce1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b7cbc4d290037902287af_Enzo Pesce1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b8bee4d290037902b7019_Gerardo Spisso1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b8bee4d290037902b7019_Gerardo Spisso1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b8bee4d290037902b7019_Gerardo Spisso1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b8bee4d290037902b7019_Gerardo Spisso1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b8bee4d290037902b7019_Gerardo Spisso1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b8bee4d290037902b7019_Gerardo Spisso1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b9a44d4a1c4e89daaee8f_Francesco Ferrara1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b9a44d4a1c4e89daaee8f_Francesco Ferrara1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b9a44d4a1c4e89daaee8f_Francesco Ferrara1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b9a44d4a1c4e89daaee8f_Francesco Ferrara1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656b9a44d4a1c4e89daaee8f_Francesco Ferrara1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656b9a44d4a1c4e89daaee8f_Francesco Ferrara1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656ba92eb7c4fb536e9cd665_Francesco Pagliara-p-1080.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656ba92eb7c4fb536e9cd665_Francesco Pagliara-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656ba92eb7c4fb536e9cd665_Francesco Pagliara-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656ba92eb7c4fb536e9cd665_Francesco Pagliara-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656ba92eb7c4fb536e9cd665_Francesco Pagliara-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656ba92eb7c4fb536e9cd665_Francesco Pagliara-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656ba92eb7c4fb536e9cd665_Francesco Pagliara.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656ba92eb7c4fb536e9cd665_Francesco Pagliara.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656babe9b9260d1e1d12f116_Francesco Bonito1-p-500.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656babe9b9260d1e1d12f116_Francesco Bonito1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656babe9b9260d1e1d12f116_Francesco Bonito1-p-800.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656babe9b9260d1e1d12f116_Francesco Bonito1-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/656babe9b9260d1e1d12f116_Francesco Bonito1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\656babe9b9260d1e1d12f116_Francesco Bonito1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d5f3d4e944f22d8c35b70_Santa Maria Cilento.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d5f3d4e944f22d8c35b70_Santa Maria Cilento.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d5f7fa7939e42512eb62f_Sala Consilina.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d5f7fa7939e42512eb62f_Sala Consilina.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d5fb095935ff97c949bf5_Basket Cilento.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d5fb095935ff97c949bf5_Basket Cilento.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d5ffd4fae3b22260ceb0d_Open Basket.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d5ffd4fae3b22260ceb0d_Open Basket.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d60210c962446523cc897_Virtus Baronissi.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d60210c962446523cc897_Virtus Baronissi.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d6078cbeb870d239fea26_Cava Basket.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d6078cbeb870d239fea26_Cava Basket.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d60be7b58e8edf2a14b09_Eboli Basket.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d60be7b58e8edf2a14b09_Eboli Basket.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d60ff79a86571cac204e8_SLZ Solfora Basket.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d60ff79a86571cac204e8_SLZ Solfora Basket.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/658d615dcbeb870d23a0546a_Nuova Pall. Atripalda.png
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\658d615dcbeb870d23a0546a_Nuova Pall. Atripalda.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/659eee1f404704c56ad66eb2_hoodie-img-1.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\659eee1f404704c56ad66eb2_hoodie-img-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/659eee231a744a6d4890e80b_hoodie-img-2.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\659eee231a744a6d4890e80b_hoodie-img-2.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65a589c72ec4f6b645c58ec0_img-mariacilento-hover.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65a589c72ec4f6b645c58ec0_img-mariacilento-hover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65a589d425c0f318de84faff_img-cilento-hover.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65a589d425c0f318de84faff_img-cilento-hover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65a589e589fced81a6b2214d_img-open-hover.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65a589e589fced81a6b2214d_img-open-hover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65a589f2d329670f8bcc299a_img-virtus-hover.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65a589f2d329670f8bcc299a_img-virtus-hover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65a589fa2ec4f6b645c5bb3e_img-cava-hover.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65a589fa2ec4f6b645c5bb3e_img-cava-hover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65a598702849e6a34a351bd1_img-mediaday-hover.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65a598702849e6a34a351bd1_img-mediaday-hover.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65ae367f2b9574a8e13a22a8_20240121191912_IMG_7173-2.jpg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65ae367f2b9574a8e13a22a8_20240121191912_IMG_7173-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65b8c0911b01369ce07a15ac_main-photo-solofra.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65b8c0911b01369ce07a15ac_main-photo-solofra.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65c2064b2eb1904db8f45a5e_img-atripalda-web.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65c2064b2eb1904db8f45a5e_img-atripalda-web.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65e6f1146d338cf24bc75216_img-photo-gallery-cilento.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65e6f1146d338cf24bc75216_img-photo-gallery-cilento.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/656b41bb4d29003790fde8d8/65f813b91b7defb4d092cc1b_img-virtus-rit.webp
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\656b41bb4d29003790fde8d8\65f813b91b7defb4d092cc1b_img-virtus-rit.webp
+Content Type: image/webp
+
+Uri: https://baronissisportsclub.webflow.io/
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://baronissisportsclub.webflow.io/our-family
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\our-family.html
+Content Type: text/html
+
+Uri: https://baronissisportsclub.webflow.io/photo-gallery
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\photo-gallery.html
+Content Type: text/html
+
+Uri: https://baronissisportsclub.webflow.io/privacy-policy
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\privacy-policy.html
+Content Type: text/html
+
+Uri: https://baronissisportsclub.webflow.io/shop/black-hoodie-united
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\shop\black-hoodie-united.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.22/bundled/lenis.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\gh\studio-freight\lenis@1.0.22\bundled\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/vallafederico/hacking-webflow@master/dist/text-split.03.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\gh\vallafederico\hacking-webflow@master\dist\text-split.03.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsstatic@1/cmsstatic.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\npm\@finsweet\attributes-cmsstatic@1\cmsstatic.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\npm\@finsweet\cookie-consent@1\fs-cc.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/CustomEase.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\ajax\libs\gsap\3.12.3\CustomEase.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/Flip.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\ajax\libs\gsap\3.12.3\Flip.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/gsap.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\ajax\libs\gsap\3.12.3\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\ajax\libs\gsap\3.12.3\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=654d5ff601c12d86da1a424b
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/split-type@0.3.4/umd/index.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\split-type@0.3.4\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/swiper@7.4.1/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\swiper@7.4.1\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/swiper@7.4.1/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\swiper@7.4.1\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/654d5ff601c12d86da1a424b/654d653332c938b1b7b77cb8_HelveticaNowDisplay-Bold.otf
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\654d653332c938b1b7b77cb8_HelveticaNowDisplay-Bold.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/654d5ff601c12d86da1a424b/654d65336e8c86842fee10dc_HelveticaNowDisplay-Regular.otf
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\654d65336e8c86842fee10dc_HelveticaNowDisplay-Regular.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/654d5ff601c12d86da1a424b/654d6533d07d276f5580cf96_HelveticaNowDisplay-Medium.otf
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\654d5ff601c12d86da1a424b\654d6533d07d276f5580cf96_HelveticaNowDisplay-Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://use.typekit.net/ica2qub.js
+File Name: C:\Downloaded Web Sites\baronissisportsclub.webflow.io\ica2qub.js
+Content Type: text/javascript
+
